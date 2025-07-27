@@ -44,14 +44,14 @@
 > 📁 [Explore more projects on my GitHub »](https://github.com/achinth04?tab=repositories)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
-
+ This is a comment and will not be rendered 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=achinth04&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinth04&layout=compact&theme=radical" height="180"/>
 </p>
-
+-->
 ---
 
 ### 🧠 Currently Exploring
