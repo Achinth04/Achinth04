@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Achinth</h1>
 <p align="center">
   <strong>Computer Science Honors Student @ University of Kansas</strong><br>
-  Interested in FinTech, DevOps, Cloud, and AI — with hands-on experience at CERN, L&T, and Intellect Design Arena.
+  Interested in FinTech, DevOps, Cloud, and Distributed systems — with hands-on experience at CERN, L&T, and Intellect Design Arena.
 </p>
 
 ---
