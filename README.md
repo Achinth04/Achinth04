@@ -36,10 +36,11 @@
 
 ### 🚀 Featured Projects
 
-- 🔁 [**SafeChain**](https://github.com/achinth04/safechain): Decentralized disaster relief messenger with WebSockets, IPFS & Polygon
-- 📈 [**Market Dashboard**](https://github.com/achinth04/market-dashboard): Real-time Spring Boot + Kafka dashboard with PostgreSQL & Redis
-- 🎓 [**HackMidtermS**](https://github.com/achinth04/hackmidterms): AI quiz platform powered by Whisper + IPFS + Firebase
-- 🔬 [**DeerBin**](https://github.com/achinth04/deerbin): Golang based pastebin deployed on GKE with K8s (currently offline with plans to go serverless due to rising infra costs)
+- 🔁 [**SafeChain**](https://github.com/shivanshshrivas/SafeChain): Decentralized disaster relief messenger with WebSockets, IPFS & Polygon
+- 📈 [**Market Dashboard**](https://github.com/Achinth04/finance-analysis-kafka): Real-time Spring Boot + Kafka dashboard with PostgreSQL & Redis
+- 🎓 [**HackMidtermS**](https://github.com/shivanshshrivas/HackMIDTERMS): AI quiz platform powered by Whisper + IPFS + Firebase
+- 🔬 [**DeerBin**](https://github.com/achinth04/deerbin): Golang based pastebin deployed on GKE with K8s using GCP (currently offline with plans to go serverless due to rising infra costs)
+- - 🔬 [**AWS-terraform-automation**](https://github.com/Achinth04/Terraform_awsVPC_IaC):Using  terraform  to automate AWS infrastructure for flask app
 
 > 📁 [Explore more projects on my GitHub »](https://github.com/achinth04?tab=repositories)
 
